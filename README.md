@@ -6,10 +6,10 @@
 
 
 Light Mode Sample:
-<a href="#"></a>
+<a href="https://github.com/Shariful797/Clone-Google-Home-Page-TailwindCSS/blob/main/Screenshot%20google%20home%20page%20light%20mode.png"></a>
 
 Dark Mode Sample:
-<a href="#"></a>
+<a href="https://github.com/Shariful797/Clone-Google-Home-Page-TailwindCSS/blob/main/Screenshot%20google%20home%20page%20System%20Dark%20mode.png"></a>
 
 <!-- <h2 align="center"> <a href="#/">not live</a> </h2> -->
 
